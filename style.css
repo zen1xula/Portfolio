@@ -35,10 +35,6 @@ ul {
 }
 .gallery-image{
     margin-bottom:62px ;
-    max-width: 420px;
-    max-height: 280px;
-    width: auto;
-    height: auto;
 }
 .navigation-list {
   display: flex;
@@ -92,5 +88,3 @@ ul {
   margin: 0 auto 66px auto;
   padding: 20px 48px;
 }
-
-
