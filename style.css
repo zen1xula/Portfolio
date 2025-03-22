@@ -89,7 +89,10 @@ ul {
   padding: 20px 48px;
 }
 img {
-    width: 420px;
-    height: 280px;
+    max-width: 420px;
+    max-height: 280px;
+    width: auto;
+    height: auto;
 }
+
 
